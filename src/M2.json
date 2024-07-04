@@ -1,6 +1,6 @@
 [
   {
-    "Wavelength": "Mango30",
+    "Wavelengths": "Mango30",
     "Moisture": "4.45",
     "Fat Content": "1",
     "902": "0.227054833",
@@ -356,7 +356,7 @@
     "1701": "0.565817467"
   },
   {
-    "Wavelength": "Mango31",
+    "Wavelengths": "Mango31",
     "Moisture": "4.46",
     "Fat Content": "1",
     "902": "0.239961667",
@@ -712,7 +712,7 @@
     "1701": "0.581536"
   },
   {
-    "Wavelength": "Mango32",
+    "Wavelengths": "Mango32",
     "Moisture": "4.49",
     "Fat Content": "1",
     "902": "0.2447266",
@@ -1068,7 +1068,7 @@
     "1701": "0.5887896"
   },
   {
-    "Wavelength": "Mango33",
+    "Wavelengths": "Mango33",
     "Moisture": "4.52",
     "Fat Content": "1",
     "902": "0.257486133",
@@ -1424,7 +1424,7 @@
     "1701": "0.5984441"
   },
   {
-    "Wavelength": "Mango34",
+    "Wavelengths": "Mango34",
     "Moisture": "4.53",
     "Fat Content": "1",
     "902": "0.236511333",
@@ -1780,7 +1780,7 @@
     "1701": "0.567204567"
   },
   {
-    "Wavelength": "Mango35",
+    "Wavelengths": "Mango35",
     "Moisture": "4.54",
     "Fat Content": "1",
     "902": "0.2399527",
@@ -2136,7 +2136,7 @@
     "1701": "0.582817733"
   },
   {
-    "Wavelength": "Mango36",
+    "Wavelengths": "Mango36",
     "Moisture": "4.55",
     "Fat Content": "1",
     "902": "0.2544912",
@@ -2492,7 +2492,7 @@
     "1701": "0.5856709"
   },
   {
-    "Wavelength": "Mango37",
+    "Wavelengths": "Mango37",
     "Moisture": "4.55",
     "Fat Content": "1",
     "902": "0.257549775",
@@ -2848,7 +2848,7 @@
     "1701": "0.5894798"
   },
   {
-    "Wavelength": "Mango38",
+    "Wavelengths": "Mango38",
     "Moisture": "4.6",
     "Fat Content": "1",
     "902": "0.247682267",
@@ -3204,7 +3204,7 @@
     "1701": "0.565093167"
   },
   {
-    "Wavelength": "Mango39",
+    "Wavelengths": "Mango39",
     "Moisture": "4.6",
     "Fat Content": "1",
     "902": "0.245056133",
@@ -3560,7 +3560,7 @@
     "1701": "0.589372967"
   },
   {
-    "Wavelength": "Mango40",
+    "Wavelengths": "Mango40",
     "Moisture": "4.6",
     "Fat Content": "1",
     "902": "0.239165833",
@@ -3916,7 +3916,7 @@
     "1701": "0.582123667"
   },
   {
-    "Wavelength": "Mango41",
+    "Wavelengths": "Mango41",
     "Moisture": "4.62",
     "Fat Content": "1",
     "902": "0.239013",
@@ -4272,7 +4272,7 @@
     "1701": "0.574178367"
   },
   {
-    "Wavelength": "Mango42",
+    "Wavelengths": "Mango42",
     "Moisture": "4.63",
     "Fat Content": "1",
     "902": "0.244207167",
@@ -4628,7 +4628,7 @@
     "1701": "0.5798952"
   },
   {
-    "Wavelength": "Mango43",
+    "Wavelengths": "Mango43",
     "Moisture": "4.64",
     "Fat Content": "1",
     "902": "0.2409307",
@@ -4984,7 +4984,7 @@
     "1701": "0.5770666"
   },
   {
-    "Wavelength": "Mango44",
+    "Wavelengths": "Mango44",
     "Moisture": "4.64",
     "Fat Content": "1",
     "902": "0.242655275",
@@ -5340,7 +5340,7 @@
     "1701": "0.58678725"
   },
   {
-    "Wavelength": "Mango45",
+    "Wavelengths": "Mango45",
     "Moisture": "4.64",
     "Fat Content": "1",
     "902": "0.242293767",
@@ -5696,7 +5696,7 @@
     "1701": "0.577868033"
   },
   {
-    "Wavelength": "Mango46",
+    "Wavelengths": "Mango46",
     "Moisture": "4.69",
     "Fat Content": "1",
     "902": "0.241063833",
@@ -6052,7 +6052,7 @@
     "1701": "0.5712094"
   },
   {
-    "Wavelength": "Mango47",
+    "Wavelengths": "Mango47",
     "Moisture": "4.7",
     "Fat Content": "1",
     "902": "0.243772267",
@@ -6408,7 +6408,7 @@
     "1701": "0.6086959"
   },
   {
-    "Wavelength": "Mango48",
+    "Wavelengths": "Mango48",
     "Moisture": "4.73",
     "Fat Content": "1",
     "902": "0.243089533",
@@ -6764,7 +6764,7 @@
     "1701": "0.584784733"
   },
   {
-    "Wavelength": "Mango49",
+    "Wavelengths": "Mango49",
     "Moisture": "4.74",
     "Fat Content": "1",
     "902": "0.2409337",
@@ -7120,7 +7120,7 @@
     "1701": "0.584167433"
   },
   {
-    "Wavelength": "Mango50",
+    "Wavelengths": "Mango50",
     "Moisture": "4.74",
     "Fat Content": "1",
     "902": "0.25164815",
@@ -7476,7 +7476,7 @@
     "1701": "0.5830582"
   },
   {
-    "Wavelength": "Mango51",
+    "Wavelengths": "Mango51",
     "Moisture": "4.77",
     "Fat Content": "1",
     "902": "0.238699333",
@@ -7832,7 +7832,7 @@
     "1701": "0.5744134"
   },
   {
-    "Wavelength": "Mango52",
+    "Wavelengths": "Mango52",
     "Moisture": "4.78",
     "Fat Content": "1",
     "902": "0.233476667",
@@ -8188,7 +8188,7 @@
     "1701": "0.5508388"
   },
   {
-    "Wavelength": "Mango53",
+    "Wavelengths": "Mango53",
     "Moisture": "4.83",
     "Fat Content": "1",
     "902": "0.2357406",
@@ -8544,7 +8544,7 @@
     "1701": "0.570327467"
   },
   {
-    "Wavelength": "Mango54",
+    "Wavelengths": "Mango54",
     "Moisture": "4.87",
     "Fat Content": "1",
     "902": "0.2372672",
@@ -8900,7 +8900,7 @@
     "1701": "0.582304733"
   },
   {
-    "Wavelength": "Mango55",
+    "Wavelengths": "Mango55",
     "Moisture": "4.87",
     "Fat Content": "1",
     "902": "0.240834167",
@@ -9256,7 +9256,7 @@
     "1701": "0.575258167"
   },
   {
-    "Wavelength": "Mango56",
+    "Wavelengths": "Mango56",
     "Moisture": "4.88",
     "Fat Content": "1",
     "902": "0.2547491",
@@ -9612,7 +9612,7 @@
     "1701": "0.596667967"
   },
   {
-    "Wavelength": "Mango57",
+    "Wavelengths": "Mango57",
     "Moisture": "4.89",
     "Fat Content": "1",
     "902": "0.2466112",
@@ -9968,7 +9968,7 @@
     "1701": "0.581489133"
   },
   {
-    "Wavelength": "Mango58",
+    "Wavelengths": "Mango58",
     "Moisture": "4.89",
     "Fat Content": "1",
     "902": "0.243535133",
@@ -10324,7 +10324,7 @@
     "1701": "0.579280067"
   },
   {
-    "Wavelength": "Mango59",
+    "Wavelengths": "Mango59",
     "Moisture": "4.9",
     "Fat Content": "1",
     "902": "0.244844067",
@@ -10680,7 +10680,7 @@
     "1701": "0.5860743"
   },
   {
-    "Wavelength": "Mango60",
+    "Wavelengths": "Mango60",
     "Moisture": "4.9",
     "Fat Content": "1",
     "902": "0.251927867",
@@ -11036,7 +11036,7 @@
     "1701": "0.585829533"
   },
   {
-    "Wavelength": "Mango61",
+    "Wavelengths": "Mango61",
     "Moisture": "4.9",
     "Fat Content": "1",
     "902": "0.247370525",
@@ -11392,7 +11392,7 @@
     "1701": "0.592130875"
   },
   {
-    "Wavelength": "Mango62",
+    "Wavelengths": "Mango62",
     "Moisture": "4.9",
     "Fat Content": "1",
     "902": "0.2509974",
@@ -11748,7 +11748,7 @@
     "1701": "0.610018533"
   },
   {
-    "Wavelength": "Mango63",
+    "Wavelengths": "Mango63",
     "Moisture": "5.02",
     "Fat Content": "1",
     "902": "0.240190533",
@@ -12104,7 +12104,7 @@
     "1701": "0.579054533"
   },
   {
-    "Wavelength": "Mango64",
+    "Wavelengths": "Mango64",
     "Moisture": "5.05",
     "Fat Content": "1",
     "902": "0.250904833",
@@ -12460,7 +12460,7 @@
     "1701": "0.6010885"
   },
   {
-    "Wavelength": "Mango65",
+    "Wavelengths": "Mango65",
     "Moisture": "5.07",
     "Fat Content": "1",
     "902": "0.235603167",
@@ -12816,7 +12816,7 @@
     "1701": "0.5748466"
   },
   {
-    "Wavelength": "Mango66",
+    "Wavelengths": "Mango66",
     "Moisture": "5.09",
     "Fat Content": "1",
     "902": "0.248229867",
@@ -13172,7 +13172,7 @@
     "1701": "0.582723033"
   },
   {
-    "Wavelength": "Mango67",
+    "Wavelengths": "Mango67",
     "Moisture": "5.11",
     "Fat Content": "1",
     "902": "0.2418121",
@@ -13528,7 +13528,7 @@
     "1701": "0.574716967"
   },
   {
-    "Wavelength": "Mango68",
+    "Wavelengths": "Mango68",
     "Moisture": "5.12",
     "Fat Content": "1",
     "902": "0.246357125",
@@ -13884,7 +13884,7 @@
     "1701": "0.603182975"
   },
   {
-    "Wavelength": "Mango69",
+    "Wavelengths": "Mango69",
     "Moisture": "5.2",
     "Fat Content": "1",
     "902": "0.2496389",
@@ -14240,7 +14240,7 @@
     "1701": "0.589257733"
   },
   {
-    "Wavelength": "Mango70",
+    "Wavelengths": "Mango70",
     "Moisture": "5.21",
     "Fat Content": "1",
     "902": "0.2458179",
@@ -14596,7 +14596,7 @@
     "1701": "0.586221067"
   },
   {
-    "Wavelength": "Mango71",
+    "Wavelengths": "Mango71",
     "Moisture": "5.29",
     "Fat Content": "1",
     "902": "0.253042267",
@@ -14952,7 +14952,7 @@
     "1701": "0.6005399"
   },
   {
-    "Wavelength": "Mango72",
+    "Wavelengths": "Mango72",
     "Moisture": "5.29",
     "Fat Content": "1",
     "902": "0.2621738",
@@ -15308,7 +15308,7 @@
     "1701": "0.618306433"
   },
   {
-    "Wavelength": "Mango73",
+    "Wavelengths": "Mango73",
     "Moisture": "5.4",
     "Fat Content": "1",
     "902": "0.241772533",
@@ -15664,7 +15664,7 @@
     "1701": "0.5952685"
   },
   {
-    "Wavelength": "Mango74",
+    "Wavelengths": "Mango74",
     "Moisture": "5.45",
     "Fat Content": "1",
     "902": "0.240005867",
@@ -16020,7 +16020,7 @@
     "1701": "0.577346667"
   },
   {
-    "Wavelength": "Mango75",
+    "Wavelengths": "Mango75",
     "Moisture": "5.5",
     "Fat Content": "1",
     "902": "0.2795195",
@@ -16376,7 +16376,7 @@
     "1701": "0.641944333"
   },
   {
-    "Wavelength": "Mango76",
+    "Wavelengths": "Mango76",
     "Moisture": "5.56",
     "Fat Content": "1",
     "902": "0.2387299",
@@ -16732,7 +16732,7 @@
     "1701": "0.575096233"
   },
   {
-    "Wavelength": "Mango77",
+    "Wavelengths": "Mango77",
     "Moisture": "5.57",
     "Fat Content": "1",
     "902": "0.235693467",
@@ -17088,7 +17088,7 @@
     "1701": "0.5514379"
   },
   {
-    "Wavelength": "Mango78",
+    "Wavelengths": "Mango78",
     "Moisture": "5.72",
     "Fat Content": "1",
     "902": "0.254108667",
@@ -17444,7 +17444,7 @@
     "1701": "0.5949466"
   },
   {
-    "Wavelength": "Mango79",
+    "Wavelengths": "Mango79",
     "Moisture": "5.75",
     "Fat Content": "1",
     "902": "0.2772588",
@@ -17800,7 +17800,7 @@
     "1701": "0.634081533"
   },
   {
-    "Wavelength": "Mango80",
+    "Wavelengths": "Mango80",
     "Moisture": "5.78",
     "Fat Content": "1",
     "902": "0.249699667",
@@ -18156,7 +18156,7 @@
     "1701": "0.6031419"
   },
   {
-    "Wavelength": "Mango81",
+    "Wavelengths": "Mango81",
     "Moisture": "5.79",
     "Fat Content": "1",
     "902": "0.2677072",
@@ -18512,7 +18512,7 @@
     "1701": "0.628186267"
   },
   {
-    "Wavelength": "Mango82",
+    "Wavelengths": "Mango82",
     "Moisture": "5.86",
     "Fat Content": "1",
     "902": "0.288702333",
@@ -18868,7 +18868,7 @@
     "1701": "0.6448907"
   },
   {
-    "Wavelength": "Mango83",
+    "Wavelengths": "Mango83",
     "Moisture": "5.93",
     "Fat Content": "1",
     "902": "0.281131233",
@@ -19224,7 +19224,7 @@
     "1701": "0.632228333"
   },
   {
-    "Wavelength": "Mango84",
+    "Wavelengths": "Mango84",
     "Moisture": "6.22",
     "Fat Content": "1",
     "902": "0.296963667",
@@ -19580,7 +19580,7 @@
     "1701": "0.670864733"
   },
   {
-    "Wavelength": "Mango85",
+    "Wavelengths": "Mango85",
     "Moisture": "6.22",
     "Fat Content": "1",
     "902": "0.25389715",
@@ -19936,7 +19936,7 @@
     "1701": "0.6123154"
   },
   {
-    "Wavelength": "Mango86",
+    "Wavelengths": "Mango86",
     "Moisture": "6.24",
     "Fat Content": "1",
     "902": "0.2567751",
@@ -20292,7 +20292,7 @@
     "1701": "0.638035967"
   },
   {
-    "Wavelength": "Mango87",
+    "Wavelengths": "Mango87",
     "Moisture": "6.29",
     "Fat Content": "1",
     "902": "0.266655267",
@@ -20648,7 +20648,7 @@
     "1701": "0.6454792"
   },
   {
-    "Wavelength": "Mango88",
+    "Wavelengths": "Mango88",
     "Moisture": "6.31",
     "Fat Content": "1",
     "902": "0.265665733",
@@ -21004,7 +21004,7 @@
     "1701": "0.629910067"
   },
   {
-    "Wavelength": "Mango89",
+    "Wavelengths": "Mango89",
     "Moisture": "6.34",
     "Fat Content": "1",
     "902": "0.270899133",
@@ -21360,7 +21360,7 @@
     "1701": "0.643397867"
   },
   {
-    "Wavelength": "Mango90",
+    "Wavelengths": "Mango90",
     "Moisture": "6.35",
     "Fat Content": "1",
     "902": "0.3032345",
@@ -21716,7 +21716,7 @@
     "1701": "0.704456833"
   },
   {
-    "Wavelength": "Mango91",
+    "Wavelengths": "Mango91",
     "Moisture": "6.37",
     "Fat Content": "1",
     "902": "0.273311033",
@@ -22072,7 +22072,7 @@
     "1701": "0.649934133"
   },
   {
-    "Wavelength": "Mango92",
+    "Wavelengths": "Mango92",
     "Moisture": "6.43",
     "Fat Content": "1",
     "902": "0.2643619",
@@ -22428,7 +22428,7 @@
     "1701": "0.6457788"
   },
   {
-    "Wavelength": "Mango93",
+    "Wavelengths": "Mango93",
     "Moisture": "6.47",
     "Fat Content": "1",
     "902": "0.2699052",
@@ -22784,7 +22784,7 @@
     "1701": "0.6500415"
   },
   {
-    "Wavelength": "Mango94",
+    "Wavelengths": "Mango94",
     "Moisture": "6.54",
     "Fat Content": "1",
     "902": "0.264201967",
@@ -23140,7 +23140,7 @@
     "1701": "0.640430667"
   },
   {
-    "Wavelength": "Mango95",
+    "Wavelengths": "Mango95",
     "Moisture": "6.54",
     "Fat Content": "1",
     "902": "0.3054729",
@@ -23496,7 +23496,7 @@
     "1701": "0.684952233"
   },
   {
-    "Wavelength": "Mango96",
+    "Wavelengths": "Mango96",
     "Moisture": "6.57",
     "Fat Content": "1",
     "902": "0.267809667",
@@ -23852,7 +23852,7 @@
     "1701": "0.674155067"
   },
   {
-    "Wavelength": "Mango97",
+    "Wavelengths": "Mango97",
     "Moisture": "6.59",
     "Fat Content": "1",
     "902": "0.3001822",
@@ -24208,7 +24208,7 @@
     "1701": "0.6832244"
   },
   {
-    "Wavelength": "Mango98",
+    "Wavelengths": "Mango98",
     "Moisture": "6.6",
     "Fat Content": "1",
     "902": "0.283165133",
@@ -24564,7 +24564,7 @@
     "1701": "0.677209367"
   },
   {
-    "Wavelength": "Mango99",
+    "Wavelengths": "Mango99",
     "Moisture": "6.6",
     "Fat Content": "1",
     "902": "0.306981367",
@@ -24920,7 +24920,7 @@
     "1701": "0.690754767"
   },
   {
-    "Wavelength": "Mango100",
+    "Wavelengths": "Mango100",
     "Moisture": "6.64",
     "Fat Content": "1",
     "902": "0.289182267",
@@ -25276,7 +25276,7 @@
     "1701": "0.675811867"
   },
   {
-    "Wavelength": "Mango101",
+    "Wavelengths": "Mango101",
     "Moisture": "6.65",
     "Fat Content": "1",
     "902": "0.277077633",
@@ -25632,7 +25632,7 @@
     "1701": "0.653484667"
   },
   {
-    "Wavelength": "Mango102",
+    "Wavelengths": "Mango102",
     "Moisture": "6.67",
     "Fat Content": "1",
     "902": "0.2654456",
@@ -25988,7 +25988,7 @@
     "1701": "0.6395071"
   },
   {
-    "Wavelength": "Mango103",
+    "Wavelengths": "Mango103",
     "Moisture": "6.69",
     "Fat Content": "1",
     "902": "0.261435033",
@@ -26344,7 +26344,7 @@
     "1701": "0.639961933"
   },
   {
-    "Wavelength": "Mango104",
+    "Wavelengths": "Mango104",
     "Moisture": "6.71",
     "Fat Content": "1",
     "902": "0.299039867",
@@ -26700,7 +26700,7 @@
     "1701": "0.6793415"
   },
   {
-    "Wavelength": "Mango105",
+    "Wavelengths": "Mango105",
     "Moisture": "6.72",
     "Fat Content": "1",
     "902": "0.2990798",
@@ -27056,7 +27056,7 @@
     "1701": "0.6879258"
   },
   {
-    "Wavelength": "Mango106",
+    "Wavelengths": "Mango106",
     "Moisture": "6.75",
     "Fat Content": "1",
     "902": "0.286518233",
@@ -27412,7 +27412,7 @@
     "1701": "0.669076411"
   },
   {
-    "Wavelength": "Mango107",
+    "Wavelengths": "Mango107",
     "Moisture": "6.8",
     "Fat Content": "1",
     "902": "0.269191867",
@@ -27768,7 +27768,7 @@
     "1701": "0.658856267"
   },
   {
-    "Wavelength": "Mango108",
+    "Wavelengths": "Mango108",
     "Moisture": "6.8",
     "Fat Content": "1",
     "902": "0.31825425",
@@ -28124,7 +28124,7 @@
     "1701": "0.718485975"
   },
   {
-    "Wavelength": "Mango109",
+    "Wavelengths": "Mango109",
     "Moisture": "6.85",
     "Fat Content": "1",
     "902": "0.2750012",
@@ -28480,7 +28480,7 @@
     "1701": "0.659659867"
   },
   {
-    "Wavelength": "Mango110",
+    "Wavelengths": "Mango110",
     "Moisture": "6.89",
     "Fat Content": "1",
     "902": "0.301754367",
@@ -28836,7 +28836,7 @@
     "1701": "0.682975"
   },
   {
-    "Wavelength": "Mango111",
+    "Wavelengths": "Mango111",
     "Moisture": "6.97",
     "Fat Content": "1",
     "902": "0.283914867",
@@ -29192,7 +29192,7 @@
     "1701": "0.674375133"
   },
   {
-    "Wavelength": "Mango112",
+    "Wavelengths": "Mango112",
     "Moisture": "6.99",
     "Fat Content": "1",
     "902": "0.3103845",
@@ -29548,7 +29548,7 @@
     "1701": "0.6974562"
   },
   {
-    "Wavelength": "Mango113",
+    "Wavelengths": "Mango113",
     "Moisture": "7.05",
     "Fat Content": "1",
     "902": "0.305409567",
@@ -29904,7 +29904,7 @@
     "1701": "0.702254533"
   },
   {
-    "Wavelength": "Mango114",
+    "Wavelengths": "Mango114",
     "Moisture": "7.06",
     "Fat Content": "1",
     "902": "0.3047004",
@@ -30260,7 +30260,7 @@
     "1701": "0.6861454"
   },
   {
-    "Wavelength": "Mango115",
+    "Wavelengths": "Mango115",
     "Moisture": "7.11",
     "Fat Content": "1",
     "902": "0.284808267",
@@ -30616,7 +30616,7 @@
     "1701": "0.679327633"
   },
   {
-    "Wavelength": "Mango116",
+    "Wavelengths": "Mango116",
     "Moisture": "7.12",
     "Fat Content": "1",
     "902": "0.286860833",
@@ -30972,7 +30972,7 @@
     "1701": "0.684692633"
   },
   {
-    "Wavelength": "Mango117",
+    "Wavelengths": "Mango117",
     "Moisture": "7.13",
     "Fat Content": "1",
     "902": "0.292619333",
@@ -31328,7 +31328,7 @@
     "1701": "0.692687167"
   },
   {
-    "Wavelength": "Mango118",
+    "Wavelengths": "Mango118",
     "Moisture": "7.16",
     "Fat Content": "1",
     "902": "0.2869863",
@@ -31684,7 +31684,7 @@
     "1701": "0.679479867"
   },
   {
-    "Wavelength": "Mango119",
+    "Wavelengths": "Mango119",
     "Moisture": "7.18",
     "Fat Content": "1",
     "902": "0.30657535",
@@ -32040,7 +32040,7 @@
     "1701": "0.69542815"
   },
   {
-    "Wavelength": "Mango120",
+    "Wavelengths": "Mango120",
     "Moisture": "7.24",
     "Fat Content": "1",
     "902": "0.30811",
@@ -32396,7 +32396,7 @@
     "1701": "0.7147189"
   },
   {
-    "Wavelength": "Mango121",
+    "Wavelengths": "Mango121",
     "Moisture": "7.24",
     "Fat Content": "1",
     "902": "0.3085369",
@@ -32752,7 +32752,7 @@
     "1701": "0.71456845"
   },
   {
-    "Wavelength": "Mango122",
+    "Wavelengths": "Mango122",
     "Moisture": "7.25",
     "Fat Content": "1",
     "902": "0.303433233",
@@ -33108,7 +33108,7 @@
     "1701": "0.6942423"
   },
   {
-    "Wavelength": "Mango123",
+    "Wavelengths": "Mango123",
     "Moisture": "7.29",
     "Fat Content": "1",
     "902": "0.3024425",
@@ -33464,7 +33464,7 @@
     "1701": "0.7015888"
   },
   {
-    "Wavelength": "Mango124",
+    "Wavelengths": "Mango124",
     "Moisture": "7.32",
     "Fat Content": "1",
     "902": "0.300716967",
@@ -33820,7 +33820,7 @@
     "1701": "0.696988367"
   },
   {
-    "Wavelength": "Mango125",
+    "Wavelengths": "Mango125",
     "Moisture": "7.37",
     "Fat Content": "1",
     "902": "0.2877671",
@@ -34176,7 +34176,7 @@
     "1701": "0.6774242"
   },
   {
-    "Wavelength": "Mango126",
+    "Wavelengths": "Mango126",
     "Moisture": "7.53",
     "Fat Content": "1",
     "902": "0.3216356",
@@ -34532,7 +34532,7 @@
     "1701": "0.726173667"
   },
   {
-    "Wavelength": "Mango127",
+    "Wavelengths": "Mango127",
     "Moisture": "7.57",
     "Fat Content": "1",
     "902": "0.303475767",
@@ -34888,7 +34888,7 @@
     "1701": "0.681128167"
   },
   {
-    "Wavelength": "Mango128",
+    "Wavelengths": "Mango128",
     "Moisture": "7.76",
     "Fat Content": "1",
     "902": "0.287535267",
@@ -35244,7 +35244,7 @@
     "1701": "0.679557733"
   },
   {
-    "Wavelength": "Mango129",
+    "Wavelengths": "Mango129",
     "Moisture": "7.76",
     "Fat Content": "1",
     "902": "0.4118648",
@@ -35600,7 +35600,7 @@
     "1701": "0.765194833"
   },
   {
-    "Wavelength": "Mango130",
+    "Wavelengths": "Mango130",
     "Moisture": "7.85",
     "Fat Content": "1",
     "902": "0.4119337",
@@ -35956,7 +35956,7 @@
     "1701": "0.766620433"
   },
   {
-    "Wavelength": "Mango131",
+    "Wavelengths": "Mango131",
     "Moisture": "7.98",
     "Fat Content": "1",
     "902": "0.411963633",
@@ -36312,7 +36312,7 @@
     "1701": "0.768279"
   },
   {
-    "Wavelength": "Mango132",
+    "Wavelengths": "Mango132",
     "Moisture": "8.18",
     "Fat Content": "1",
     "902": "0.41159565",
@@ -36668,7 +36668,7 @@
     "1701": "0.7713114"
   },
   {
-    "Wavelength": "Mango133",
+    "Wavelengths": "Mango133",
     "Moisture": "8.3",
     "Fat Content": "1",
     "902": "0.41077085",
@@ -37024,7 +37024,7 @@
     "1701": "0.77239165"
   },
   {
-    "Wavelength": "Mango134",
+    "Wavelengths": "Mango134",
     "Moisture": "9.43",
     "Fat Content": "1",
     "902": "0.318241967",
@@ -37380,7 +37380,7 @@
     "1701": "0.760962567"
   },
   {
-    "Wavelength": "Mango135",
+    "Wavelengths": "Mango135",
     "Moisture": "9.59",
     "Fat Content": "1",
     "902": "0.319623167",
@@ -37736,7 +37736,7 @@
     "1701": "0.7583583"
   },
   {
-    "Wavelength": "Mango136",
+    "Wavelengths": "Mango136",
     "Moisture": "9.92",
     "Fat Content": "1",
     "902": "0.3165924",
